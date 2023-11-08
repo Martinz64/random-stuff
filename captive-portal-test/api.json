@@ -1,7 +1,7 @@
 {
-    "captive": true,
-    "user-portal-url": "https://youtube.com/watch?v=dqw4w9wgxcq",
-    "venue-info-url": "https://martinz.dev",
-    "seconds-remaining": 10,
+    "captive": false,
+    "user-portal-url": "https://martinz.dev",
+    "venue-info-url": "https://youtube.com/watch?v=dQw4w9WgXcQ",
+    "seconds-remaining": 4140,
     "can-extend-session": true
 }
